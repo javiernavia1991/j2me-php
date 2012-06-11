@@ -1,0 +1,13 @@
+--BD:  dbestudiante
+
+create table infoestudiante(
+
+
+  cedula     varchar(15),
+  nombre     varchar(15),
+  apellido   varchar(15),
+  direccion  varchar(15),
+  telefono   varchar(15),
+  email      varchar(15)
+
+);

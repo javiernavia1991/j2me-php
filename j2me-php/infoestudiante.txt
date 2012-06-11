@@ -1,0 +1,6 @@
+Cedula	 :1111
+Nombre	 :Pepito
+Apellido :Perez
+Direccion: cale 46 # 52-14
+Telefono : 55555
+Email    : pepito@perez.com
